@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijit975
+- 👋 Hi, I’m Abhijit Chakraborty (@abhijit975).
 - 👀 I’m interested in quantum computing, data science, and especially quantum machine learning.
 - 🌱 I’m currently learning quantum machine learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
