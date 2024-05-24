@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhijit Chakraborty (@abhijit975).
-- 👀 I’m interested in quantum computing, data science, and especially applications of machine learning in quantum science.
+- ✍🏼 I’m interested in quantum computing, data science, and especially applications of machine learning in quantum science.
 - 🌱 I’m currently learning deep neural networks and large language models.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 🤝 I’m looking to collaborate on machine learning projects.
 - 📫 Reach out to me at abhijit.iiserk@gmail.com.
 
 <!---
